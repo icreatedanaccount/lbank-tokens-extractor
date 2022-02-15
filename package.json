@@ -1,0 +1,22 @@
+{
+  "name": "lbank-tokens-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-cov": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "ascii-art-image": "^1.4.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^10.0.0",
+    "ws": "^8.4.2"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
